@@ -4,6 +4,6 @@ Status do Projeto: Em desenvolvimento;
 
 ...
 
-hph, install
+Node, app.js(java Script).
 
 ....
