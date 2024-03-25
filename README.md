@@ -4,6 +4,6 @@ Status do Projeto: Em desenvolvimento;
 
 ...
 
-Node, app.js(java Script).
+node.js, app.js(java Script).
 
 ....
